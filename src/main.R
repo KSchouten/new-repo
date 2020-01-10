@@ -18,3 +18,4 @@ for (i in 1:10){
   a <- c(a, i)
   print(lobstr::obj_addr(a))
 }
+
